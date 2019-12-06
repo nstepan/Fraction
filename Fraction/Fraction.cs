@@ -1,4 +1,6 @@
-﻿// Created: 5.12.2019.
+// Author: Nik
+// Created: 5.12.2019.
+
 // binary operator overloading methods can throw overflow exception
 // fractions are auto-reducing and immutable
 // numerator and denominator must be in [-int.MaxValue, int.MaxValue]
